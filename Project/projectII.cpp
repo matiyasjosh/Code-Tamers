@@ -14,7 +14,7 @@ int main() {
                     cout << l;
                 }
             }
-        } 
+        }
         cout << endl;  
     }
     int m=9;
